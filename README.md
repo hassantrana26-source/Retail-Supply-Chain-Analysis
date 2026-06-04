@@ -40,30 +40,6 @@ Using Pandas and Seaborn:
 - Outlier Removal
 - Correlation Analysis
 
-## Screenshots
-
-### Excel Dashboard
-
-![Excel Dashboard](images/excel_dashboard.png)
-
-### Power BI Dashboard
-
-![Power BI Dashboard](images/powerbi_dashboard.png)
-
-### Correlation Heatmap
-
-![Heatmap](images/correlation_heatmap.png)
-
-## Repository Structure
-
-```text
-data/
-excel/
-powerbi/
-notebooks/
-images/
-```
-
 ## Author
 
 Hassan Tariq
